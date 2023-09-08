@@ -7,9 +7,9 @@ You can type in multiple parameters just separate multiple words with a comma, o
 ## where-to-find
 important links:
 
-github repo: https://github.com/MCKIT77/meal-magic
+github repo: https://github.com/Dadams11/MealMagic
 
-github pages: https://mckit77.github.io/meal-magic/
+github pages: https://dadams11.github.io/MealMagic/
 
 ## api-usage
 edamam api: "https://api.edamam.com/api/recipes/v2"
